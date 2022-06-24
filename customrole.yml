@@ -1,6 +1,6 @@
 title: costomrole
 description: custom
-stage: beta
+stage: BETA
 includedPermissions:
 - apigee.apiproducts.create
 - apigee.apiproducts.list
