@@ -36,7 +36,7 @@ includedPermissions:
 - apigee.proxies.delete
 - apigee.proxies.get
 - apigee.proxies.list
-- - apigee.proxyrevisions.get
+- apigee.proxyrevisions.get
 - apigee.proxyrevisions.list
 - apigee.reports.create
 - apigee.reports.list
